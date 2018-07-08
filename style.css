@@ -1,7 +1,8 @@
-#titlebar {
+@font-face {
     font-family: 'Merriweather Sans', sans-serif;
+    src: url("//fonts.googleapis.com/css?family=Merriweather+Sans")
 }
 
-p {
-    font-family: 'Nunito', sans-serif;
+#titlebar {
+    font-family: 'Merriweather Sans', sans-serif;
 }
