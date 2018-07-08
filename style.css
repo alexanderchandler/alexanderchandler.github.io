@@ -1,8 +1,9 @@
-@font-face {
-    font-family: 'Merriweather Sans', sans-serif;
-    src: url("//fonts.googleapis.com/css?family=Merriweather+Sans")
-}
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans');
 
 #titlebar {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
+}
+
+p {
+    font-family: "Lato", sans-serif;
 }
